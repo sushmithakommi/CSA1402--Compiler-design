@@ -23,5 +23,5 @@ i++;
 }
 if(flag==1)
 printf("\n Valid identifier");
-getch();
+getch();//get character value
 }
